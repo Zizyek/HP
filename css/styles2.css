@@ -1,0 +1,146 @@
+.main {
+    margin-left: 150px;
+    background-color: rgb(255, 255, 255);
+    font-family: garamond-premier-pro-display, serif;
+}
+
+.wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+   
+}
+
+.cardtag {
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.header-list {
+    position: fixed;
+    color: whitesmoke;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+}
+
+.header-list li{
+   list-style: none;
+   
+}
+
+.point {
+    color:rgb(255, 255, 255);
+}
+
+a:hover{
+    color : #ff7043;
+  }
+
+/*aboutエリア*/
+.top {
+    margin-bottom: 200px;
+    margin-top: 3px;
+    background-color: rosybrown;
+}
+.tytletab {
+    height: 800px;
+    background-image: url("../images/aboutabout9.JPG");
+    background-size: cover; 
+ 
+    background-position: center center;
+}
+.tytletab h1 {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 100px;
+    font-family: garamond-premier-pro-display, serif; 
+    padding-top: 100px;
+    margin-top: 0px;
+}
+.tytletab p {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 10px;
+    font-family: garamond-premier-pro-display, serif; 
+    
+}
+
+.top p {
+    font-size: 10px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*goodsエリア*/
+.goods {
+    background-color: rgb(255, 255, 255);
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+
+}
+
+.goods p {
+    font-size: 5px;
+    color:rgb(61, 45, 45);
+}
+
+.goods h1 {
+    font-size: 15px;
+    color:rgb(100, 78, 78);
+}
+
+.goods h4 {
+    font-size: 10px;
+    color:rgb(83, 62, 62);
+}
+
+
+/*bottom-placeエリア*/
+.bottom-place {
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*placeエリア*/
+.map {
+    text-align: right;
+}
+/*コンタクトフォーム*/
+
+
+.contact-form p {
+    font-size: 10px;
+    padding-top: 20px;
+}
+
+input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+    background-color:rgb(255, 255, 255);
+    
+}
+
+.lastcontents {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.shop-place p {
+    font-size: 10px;
+    padding-top: 20px;
+}
+
+ul {
+    list-style: none;
+  }
